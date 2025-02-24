@@ -5,9 +5,9 @@ MortalityGraph is a Python-based project that demonstrates how a supervisor agen
 Perfect for exploring multi-agent systems, healthcare analytics, or graph-based orchestration!
 
 Features
-Multi-Agent Architecture: A supervisor agent delegates tasks to worker agents (data fetching, analysis, visualization).
-Graph Workflow: LangGraph defines a clear, programmable sequence of steps.
-Simulated APIs: Hardcoded responses mimic fast database queries (e.g., mortality rates, staffing data).
-Observability: LangSmith traces execution for debugging and performance insights.
+Multi-Agent Architecture: A supervisor agent delegates tasks to worker agents (data fetching, analysis, visualization). </br>
+Graph Workflow: LangGraph defines a clear, programmable sequence of steps.</br>
+Simulated APIs: Hardcoded responses mimic fast database queries (e.g., mortality rates, staffing data). </br>
+Observability: LangSmith traces execution for debugging and performance insights. </br>
 Healthcare Focus: Analyzes why mortality rates differ between facilities, with text and simulated visualizations.
 
